@@ -1,0 +1,5 @@
+numpy
+pywinauto
+pynput
+pywin32
+PyAudioWPatch
